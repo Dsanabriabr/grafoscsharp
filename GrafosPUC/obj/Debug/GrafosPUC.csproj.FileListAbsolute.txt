@@ -1,0 +1,16 @@
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\bin\Debug\GrafosPUC.exe.config
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\bin\Debug\GrafosPUC.exe
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\bin\Debug\GrafosPUC.pdb
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\bin\Debug\Microsoft.Msagl.dll
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\bin\Debug\Microsoft.Msagl.Drawing.dll
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\bin\Debug\Microsoft.Msagl.xml
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\bin\Debug\Microsoft.Msagl.Drawing.xml
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\obj\Debug\GrafosPUC.csprojResolveAssemblyReference.cache
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\obj\Debug\GrafosPUC.Properties.Resources.resources
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\obj\Debug\GrafosPUC.csproj.GenerateResource.Cache
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\obj\Debug\GrafosPUC.csproj.CoreCompileInputs.cache
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\obj\Debug\GrafosPUC.exe
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\obj\Debug\GrafosPUC.pdb
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+c:\users\marthinha\Source\repos\GrafosPUC\GrafosPUC\obj\Debug\GrafosPUC.Form1.resources
